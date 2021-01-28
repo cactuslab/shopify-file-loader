@@ -1,6 +1,6 @@
 {
-  "name": "shopify-file-loader",
-  "version": "0.0.6",
+  "name": "@cactuslab/shopify-file-loader",
+  "version": "0.0.7",
   "author": "Taha Eldeib @tahaeldeib",
   "description": "file loader module for webpack",
   "files": [
